@@ -50,3 +50,5 @@ Built using [`create-miro-app`](https://www.npmjs.com/package/create-miro-app).
 
 This app uses [Vite](https://vitejs.dev/). \
 If you want to modify the `vite.config.js` configuration, see the [Vite documentation](https://vitejs.dev/guide/).
+
+test
